@@ -3,8 +3,8 @@
 
 Servo servo;
 
-const char* ssid = "KhMrMo";
-const char* password = "M.r.k.h.1113.";
+const char* ssid = "****";
+const char* password = "****";
 
 WiFiServer server(80);
 
